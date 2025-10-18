@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/IntroScene.unity
+    guid: 030c1371d63efc349a8572a8720be910
+  - enabled: 1
+    path: Assets/Scenes/Puzzle1.unity
+    guid: 24f710c963851d84aa1555d3b60f8f96
+  - enabled: 1
+    path: Assets/Scenes/Puzzle2.unity
+    guid: c5bc4437557649741a44d8dbc280b512
+  - enabled: 1
+    path: Assets/Scenes/LastScene.unity
+    guid: 9b72d998d5dc043469efca1abe9cfade
+  m_configObjects: {}
